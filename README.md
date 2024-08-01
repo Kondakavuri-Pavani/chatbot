@@ -38,8 +38,8 @@ This repository contains the source code for a chatbot designed to educate users
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/traffic-rules-chatbot.git
-    cd traffic-rules-chatbot
+    git clone https://github.com/Kondakavuri-Pavani/chatbot
+    cd chatbot
     ```
 
 2. **Set Up the Database**
